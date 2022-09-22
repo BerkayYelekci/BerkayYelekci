@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BerkayYelekci
-- 👀 I’m interested in Developing Games and playing them.
-- 🌱 I continue to learn Unity using C#
+- 👀 I like developing videogames.
+- 🌱 I mainly use C# and Unity for games that I create.
 - 📫 How to reach me https://www.linkedin.com/in/berkay-yelekçi-867aa51a5/
 
 <!---
